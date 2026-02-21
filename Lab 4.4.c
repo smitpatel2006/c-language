@@ -25,7 +25,7 @@ void rev(int n)
     printf("\nNumber is Palindrome. ");
 
    }
-   else{
+  else{
    printf("\nNumber is Not Palindrome. ");
     }
-}
+} 
